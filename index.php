@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Dannielle Bojorquez</title>
+		<title>Dinn</title>
 
 	</head>
 	<body style="background-color: mediumorchid">
+		<h1>Dannielle Bojorquez</h1>
 		<p> Hello, my name is Dannielle Bojorquez. I was currently working as vet tech in Moab Utah when I saw the Deep
 			Dive Bootcamp.  I am looking forward to learning a lot in the class</p>
 
