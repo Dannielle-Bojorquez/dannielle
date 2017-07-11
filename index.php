@@ -6,7 +6,7 @@
 	</head>
 	<body style="background-color: mediumorchid">
 		<h1>Dannielle Bojorquez</h1>
-		<p> Hello, my name is Dannielle Bojorquez. I was currently working as vet tech in Moab, Utah when I saw the Deep
+		<p> Hello, my name is Dannielle Bojorquez. I was working as vet tech in Moab, Utah when I saw the Deep
 			Dive Bootcamp.  Moab was a very cool place to live but I got tired of seeing mountain bikes all the time.
 			I am looking forward to learning a lot in the class.</p>
 
