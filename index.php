@@ -12,7 +12,7 @@
 
 		<p> I am a mom of 2 dogs who love to lay around.  They are the light of my life and I don't know what I would do
 			without them. In my spare time I love to do wedding cakes for some extra money!</p>
-		<img src="image/cake.jpg"/>
-		<img src="image/dog.jpg"/>
+		<img src="image/cake.jpg" width="200px" height="auto"/>
+		<img src="image/dog.jpg" width="200px" height="auto"/>
 	</body>
 </html>
